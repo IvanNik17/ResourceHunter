@@ -1,7 +1,7 @@
 # ResourceHunter
 A short android game prototype, made part of a game jam with the theme of **resources**
 
-
+![Visual](images/ResourceHunter.gif)
 
 # Game Explanation
 ●	Resource gathering hover vehicle game.
